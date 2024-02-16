@@ -1,4 +1,0 @@
-repository "iNav@unity_B40470CC56797156B31E@cloud"
-  path "/"
-    br "/main"
-    co "/main"
